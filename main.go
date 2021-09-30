@@ -7,11 +7,16 @@ import (
 )
 var(
 	SearchStr=flag.String("d","","search domain string")
-	ExcludeHoneyPot=flag.Bool("h",true,"is exclude honeypots, default True")
+	ExcludeHoneyPot=flag.Bool("b",true,"is exclude honeypots, default True")
 	Config= module.Config{}
 )
+func init(){
+
+}
 
 func main()  {
 	myConfig:=module.ParseConfig("config.yml")
-	fmt.Println(module.FofaMain(`domain="suzhoubank.com"`,myConfig))
+	a,b:=module.FofaMain(`domain="suzhoubank.com"`,myConfig)
+	fmt.Println(a)
+	fmt.Println(b)
 }

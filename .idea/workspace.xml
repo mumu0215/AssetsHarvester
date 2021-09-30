@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2829d1b-b4d6-4886-befb-3b6d3ed3cbb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/fofa.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/model.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/quake.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/fofa.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/fofa.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,5 +62,9 @@
     </state>
     <state x="182" y="63" key="SettingsEditor/0.0.1440.900/-286.-1080.1920.1080@0.0.1440.900" timestamp="1632733929636" />
     <state x="229" y="86" key="SettingsEditor/54.25.1386.875/-286.-1055.1920.1055@54.25.1386.875" timestamp="1632733889833" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1632985559032">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-286.-1080.1920.1080@0.0.1440.900" timestamp="1632985559032" />
   </component>
 </project>
